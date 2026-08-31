@@ -1,0 +1,82 @@
+[
+  {
+    "page_content": "Northstar College | Fictional Academic Guide\nPage 1\n NORTHSTAR COLLEGE\n Academic Guide\n Programmes, attendance, examinations, credits, and course requirements\nFICTIONAL CLASSROOM DATA - NOT AN OFFICIAL COLLEGE POLICY\n Knowledge-base ID: NSC-ACADEMIC-DEMO-2026\n Academic year: 2026-27\n Version: 1.0\nCreated only for the College AI Assistant RAG lab. All names, dates, amounts, contacts, and rules in this file are invented\nfor learning.",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 0
+    }
+  },
+  {
+    "page_content": "Northstar College | Fictional Academic Guide\nPage 2\n1. Purpose and scope\nThis guide gives fictional academic rules for three programmes: B.Tech Computer Science and\nEngineering (B.Tech CSE), B.Sc Data Science, and Bachelor of Business Administration (BBA). The\nrules are designed so a RAG system can retrieve programme-specific passages.\nStudent-record boundary: this document contains policy information only. It does not\ncontain any student's marks, attendance percentage, registered subjects, or examination\nresult.\n2. Programme summary\n Programme\nNormal duration\nCredits required\nAcademic coordinator\nB.Tech CSE\n8 semesters\n160 credits\nSchool of Computing office\nB.Sc Data Science\n6 semesters",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Academic coordinator\nB.Tech CSE\n8 semesters\n160 credits\nSchool of Computing office\nB.Sc Data Science\n6 semesters\n140 credits\nData Science programme office\nBBA\n6 semesters\n120 credits\nSchool of Management office\n3. Credit-load rules\n - A regular semester normally contains 18 to 24 credits.\n - A student may request up to 27 credits after academic-adviser approval if the previous semester\n GPA is at least 8.0 and there is no active backlog.\n- A student on academic probation is limited to 18 credits unless the programme office approves a\n recovery plan.\n- Audit-only courses appear on the learning record but do not count toward the degree-credit total.",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Northstar College | Fictional Academic Guide\nPage 3\n4. Attendance and examination eligibility\nThe minimum attendance required to write the end-semester examination is 75 percent in each\nregistered course. Attendance is calculated separately for each course; an overall average does not\nreplace the course-level requirement.\nAttendance bands\n Course attendance\nStatus\nFictional action\n75% or above\nEligible\nMay write the end-semester examination if other requirements are met.\n65% to 74.99%\nShortage\nMay submit one condonation request with supporting evidence before the\npublished deadline.\nBelow 65%\nNot eligible\nMust repeat the course when it is next offered; condonation is not\navailable.",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "Below 65%\nNot eligible\nMust repeat the course when it is next offered; condonation is not\navailable.\nAssessment pattern\n - Theory course: 40 percent continuous assessment and 60 percent end-semester examination.\n - Laboratory course: 60 percent continuous performance and 40 percent practical examination.\n - A student must obtain at least 40 percent in the end-semester component and at least 50 percent\n overall to pass a course.\nBacklog and re-examination\nA failed course becomes a backlog. The student should register for the next available\nre-examination through the examination portal. A maximum of four active backlogs is allowed before",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "re-examination through the examination portal. A maximum of four active backlogs is allowed before\nthe student must meet the programme coordinator to create an academic recovery plan.",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "Northstar College | Fictional Academic Guide\nPage 4\n5. Course registration and prerequisites\n - Online registration opens ten calendar days before the first teaching day.\n - The add/drop window closes at 5:00 p.m. on the fifth teaching day.\n - A prerequisite course must be passed before registering for the dependent course unless the\n academic committee records a written exception.\n- Timetable clashes are not approved. Students should contact their adviser before the add/drop\n deadline.\nProgramme-specific requirements\n Programme\nMajor requirement\nFinal-stage requirement\nB.Tech CSE\nData Structures is required before Algorithms;\nDatabase Systems is required before the Data",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "B.Tech CSE\nData Structures is required before Algorithms;\nDatabase Systems is required before the Data\nEngineering elective.\nSix-credit capstone across semesters 7 and\n8, plus an approved 6-week internship.\nB.Sc Data Science\nPython Programming and Statistics I are\nrequired before Machine Learning\nFoundations.\nEight-credit applied analytics project in\nsemester 6, plus a portfolio review.\nBBA\nPrinciples of Management is required before\nStrategic Management.\nSix-credit industry project in semester 6 and\n30 hours of community engagement.\n6. Grading scale\n Score\nLetter grade\nGrade point\n90-100\nO\n10\n80-89\nA+\n9\n70-79\nA\n8\n60-69\nB+\n7\n55-59\nB\n6\n50-54\nC\n5\nBelow 50\nF\n0",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "Northstar College | Fictional Academic Guide\nPage 5\n7. Academic support and escalation\n - For course choice or prerequisite questions: contact the assigned faculty adviser.\n - For attendance correction: first contact the course instructor within five working days of the\n displayed class record.\n- For examination registration or hall-ticket problems: contact the Examination Cell.\n - For a programme exception: submit a written request to the programme office; chatbot answers are\n not approvals.\n8. Safe answers for the AI assistant\nThe assistant may explain the rules in this guide and identify the relevant office. It must not claim to",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "The assistant may explain the rules in this guide and identify the relevant office. It must not claim to\nknow a student's current attendance, grades, backlog count, registered courses, or eligibility. Those\nvalues require an authenticated student information system.\nDemo contact: Academic Help Desk, academic-help@northstar.example. This address is\nfictional and must not be used for real communication.",
+    "metadata": {
+      "category": "academic",
+      "source_name": "northstar_academic_guide.pdf",
+      "page": 4
+    }
+  }
+]

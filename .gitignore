@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/faiss_indexes/*
+!data/faiss_indexes/.gitkeep
+
