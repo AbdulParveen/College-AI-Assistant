@@ -9,7 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_mistralai import ChatMistralAI
 from langgraph.graph import END, START, StateGraph
 
-from .classifier import Category, classify_query
+from classifier import Category, classify_query
 from .rag import format_context, format_sources, retrieve
 from .settings import SETTINGS
 
