@@ -6,7 +6,7 @@ from functools import lru_cache
 
 import gradio as gr
 
-from workflow import CollegeAssistant
+from src.workflow import CollegeAssistant
 
 
 PROGRAMMES = ["B.Tech CSE", "B.Sc Data Science", "BBA"]
